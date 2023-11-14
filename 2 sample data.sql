@@ -5,3 +5,4 @@ union select 'nose', 1
 union select 'mouth', 2
 union select 'teeth', 32
 union select 'toungue', 1
+
